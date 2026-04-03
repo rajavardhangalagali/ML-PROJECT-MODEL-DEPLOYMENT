@@ -1,0 +1,101 @@
+mood,time_of_day,weather,hunger_level,age_group,meal_recommendation
+Happy,Morning,Sunny,Low,Young,Light Breakfast
+Stressed,Morning,Cloudy,High,Adult,Heavy Breakfast
+Sad,Evening,Rainy,Medium,Young,Comfort Food
+Excited,Afternoon,Sunny,High,Teen,Fast Food
+Tired,Night,Cloudy,High,Adult,Heavy Dinner
+Happy,Afternoon,Sunny,Medium,Teen,Snacks
+Anxious,Morning,Rainy,Low,Adult,Light Breakfast
+Sad,Night,Rainy,High,Adult,Comfort Food
+Excited,Afternoon,Sunny,Low,Young,Snacks
+Tired,Evening,Cloudy,Medium,Old,Light Dinner
+Happy,Morning,Sunny,High,Teen,Heavy Breakfast
+Stressed,Afternoon,Cloudy,Medium,Adult,Fast Food
+Sad,Morning,Rainy,Low,Old,Light Breakfast
+Excited,Night,Sunny,High,Young,Fast Food
+Tired,Morning,Rainy,Medium,Adult,Light Breakfast
+Happy,Evening,Sunny,High,Young,Heavy Dinner
+Anxious,Afternoon,Cloudy,Low,Teen,Snacks
+Sad,Evening,Rainy,High,Adult,Comfort Food
+Excited,Morning,Sunny,Medium,Teen,Heavy Breakfast
+Tired,Night,Rainy,High,Old,Heavy Dinner
+Happy,Afternoon,Sunny,Low,Young,Snacks
+Stressed,Night,Cloudy,High,Adult,Comfort Food
+Sad,Afternoon,Rainy,Medium,Teen,Snacks
+Excited,Evening,Sunny,High,Young,Fast Food
+Tired,Afternoon,Cloudy,Low,Old,Light Dinner
+Happy,Night,Sunny,High,Adult,Heavy Dinner
+Anxious,Evening,Rainy,Medium,Adult,Light Dinner
+Stressed,Morning,Cloudy,Low,Teen,Light Breakfast
+Happy,Afternoon,Sunny,Medium,Old,Light Dinner
+Sad,Night,Rainy,Low,Young,Comfort Food
+Excited,Morning,Sunny,High,Adult,Heavy Breakfast
+Tired,Evening,Cloudy,Medium,Teen,Light Dinner
+Happy,Morning,Sunny,Low,Old,Light Breakfast
+Stressed,Night,Rainy,High,Young,Comfort Food
+Anxious,Afternoon,Cloudy,Medium,Old,Light Dinner
+Excited,Evening,Sunny,Medium,Teen,Snacks
+Sad,Morning,Cloudy,High,Adult,Heavy Breakfast
+Tired,Afternoon,Rainy,Low,Young,Snacks
+Happy,Night,Sunny,Medium,Teen,Fast Food
+Stressed,Evening,Cloudy,High,Old,Heavy Dinner
+Anxious,Evening,Rainy,Medium,Teen,Light Dinner
+Excited,Afternoon,Rainy,Low,Young,Snacks
+Stressed,Night,Sunny,Low,Teen,Light Dinner
+Sad,Evening,Sunny,Medium,Adult,Light Dinner
+Stressed,Afternoon,Sunny,High,Teen,Fast Food
+Sad,Evening,Rainy,Medium,Teen,Comfort Food
+Stressed,Afternoon,Rainy,High,Adult,Comfort Food
+Happy,Night,Rainy,Medium,Young,Light Dinner
+Sad,Afternoon,Cloudy,High,Adult,Light Dinner
+Sad,Night,Cloudy,Medium,Teen,Light Dinner
+Tired,Afternoon,Rainy,Medium,Teen,Snacks
+Stressed,Afternoon,Rainy,Medium,Adult,Comfort Food
+Stressed,Afternoon,Sunny,High,Old,Light Dinner
+Tired,Morning,Sunny,High,Adult,Heavy Breakfast
+Tired,Afternoon,Sunny,Low,Teen,Snacks
+Tired,Morning,Sunny,Low,Adult,Light Breakfast
+Excited,Afternoon,Sunny,Low,Old,Snacks
+Excited,Evening,Cloudy,Medium,Old,Light Dinner
+Tired,Afternoon,Cloudy,Medium,Young,Snacks
+Tired,Morning,Cloudy,High,Teen,Heavy Breakfast
+Excited,Morning,Rainy,Low,Young,Light Breakfast
+Anxious,Night,Sunny,High,Young,Comfort Food
+Happy,Morning,Sunny,High,Adult,Heavy Breakfast
+Stressed,Morning,Sunny,Low,Teen,Light Breakfast
+Stressed,Afternoon,Cloudy,High,Teen,Fast Food
+Happy,Morning,Rainy,High,Old,Heavy Breakfast
+Stressed,Afternoon,Rainy,Medium,Young,Comfort Food
+Tired,Afternoon,Rainy,Low,Young,Snacks
+Sad,Morning,Rainy,Low,Adult,Light Breakfast
+Happy,Night,Rainy,High,Adult,Heavy Dinner
+Anxious,Evening,Sunny,Low,Teen,Snacks
+Stressed,Morning,Sunny,Low,Adult,Light Breakfast
+Sad,Afternoon,Rainy,Low,Teen,Snacks
+Happy,Night,Cloudy,Medium,Old,Light Dinner
+Sad,Evening,Cloudy,Low,Young,Snacks
+Anxious,Evening,Rainy,High,Teen,Light Dinner
+Stressed,Night,Sunny,Low,Adult,Light Dinner
+Stressed,Night,Cloudy,High,Young,Comfort Food
+Tired,Evening,Cloudy,Medium,Young,Light Dinner
+Excited,Night,Rainy,Low,Old,Light Dinner
+Tired,Evening,Sunny,Medium,Teen,Light Dinner
+Excited,Morning,Sunny,Low,Adult,Light Breakfast
+Sad,Afternoon,Rainy,High,Young,Comfort Food
+Tired,Morning,Sunny,Medium,Teen,Light Breakfast
+Excited,Morning,Cloudy,High,Young,Heavy Breakfast
+Happy,Morning,Rainy,High,Teen,Heavy Breakfast
+Stressed,Morning,Sunny,High,Old,Heavy Breakfast
+Sad,Night,Cloudy,High,Teen,Comfort Food
+Excited,Night,Sunny,Low,Teen,Light Dinner
+Tired,Morning,Rainy,High,Young,Heavy Breakfast
+Stressed,Night,Cloudy,Medium,Teen,Light Dinner
+Sad,Night,Cloudy,Medium,Teen,Light Dinner
+Excited,Afternoon,Cloudy,High,Teen,Fast Food
+Stressed,Afternoon,Rainy,High,Adult,Comfort Food
+Anxious,Afternoon,Cloudy,Medium,Teen,Snacks
+Stressed,Morning,Rainy,High,Teen,Heavy Breakfast
+Excited,Night,Sunny,Medium,Teen,Fast Food
+Sad,Evening,Cloudy,High,Old,Light Dinner
+Excited,Evening,Sunny,High,Adult,Light Dinner
+Anxious,Afternoon,Rainy,Medium,Teen,Snacks
